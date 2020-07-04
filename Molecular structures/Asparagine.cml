@@ -1,0 +1,39 @@
+<molecule>
+ <atomArray>
+  <atom id="a1" elementType="H" x3="0.652278" y3="0.070607" z3="-1.632728"/>
+  <atom id="a2" elementType="C" x3="0.013345" y3="-0.352033" z3="-0.848923"/>
+  <atom id="a3" elementType="C" x3="-1.308724" y3="-0.748522" z3="-1.504039"/>
+  <atom id="a4" elementType="O" x3="-1.711179" y3="-0.411276" z3="-2.605383"/>
+  <atom id="a5" elementType="O" x3="-2.086489" y3="-1.512122" z3="-0.699155"/>
+  <atom id="a6" elementType="H" x3="-2.870591" y3="-1.699664" z3="-1.257192"/>
+  <atom id="a7" elementType="C" x3="-0.287715" y3="0.679601" z3="0.237019"/>
+  <atom id="a8" elementType="C" x3="0.956314" y3="1.435368" z3="0.619633"/>
+  <atom id="a9" elementType="H" x3="-1.015329" y3="1.420922" z3="-0.117920"/>
+  <atom id="a10" elementType="N" x3="0.686702" y3="-1.562226" z3="-0.320123"/>
+  <atom id="a11" elementType="H" x3="0.067034" y3="-2.015706" z3="0.352565"/>
+  <atom id="a12" elementType="H" x3="1.533780" y3="-1.292197" z3="0.177830"/>
+  <atom id="a13" elementType="O" x3="1.530424" y3="2.217292" z3="-0.127458"/>
+  <atom id="a14" elementType="N" x3="1.441429" y3="1.166050" z3="1.865665"/>
+  <atom id="a15" elementType="H" x3="-0.742137" y3="0.208983" z3="1.117629"/>
+  <atom id="a16" elementType="H" x3="0.899233" y3="0.687820" z3="2.572055"/>
+  <atom id="a17" elementType="H" x3="2.241625" y3="1.707103" z3="2.170528"/>
+ </atomArray>
+ <bondArray>
+  <bond atomRefs2="a1 a2" order="1"/>
+  <bond atomRefs2="a2 a3" order="1"/>
+  <bond atomRefs2="a2 a7" order="1"/>
+  <bond atomRefs2="a2 a10" order="1"/>
+  <bond atomRefs2="a3 a4" order="2"/>
+  <bond atomRefs2="a3 a5" order="1"/>
+  <bond atomRefs2="a5 a6" order="1"/>
+  <bond atomRefs2="a7 a8" order="1"/>
+  <bond atomRefs2="a7 a9" order="1"/>
+  <bond atomRefs2="a10 a11" order="1"/>
+  <bond atomRefs2="a10 a12" order="1"/>
+  <bond atomRefs2="a8 a13" order="2"/>
+  <bond atomRefs2="a8 a14" order="1"/>
+  <bond atomRefs2="a7 a15" order="1"/>
+  <bond atomRefs2="a14 a16" order="1"/>
+  <bond atomRefs2="a14 a17" order="1"/>
+ </bondArray>
+</molecule>
