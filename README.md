@@ -4,3 +4,22 @@
 > To build and optimize molecular structures using Avogadro software. 
 > 
 > To find the various bond angles, bond lengths between different bonds i.e, single, double and triple of same or different elements.
+```
+ Arginine.cml
+ 
+ Asparagine.cml
+ 
+ Glutamic acid.cml
+ 
+ Glutamine.cml
+ 
+ Histidine.cml
+ 
+ Phenylalanine.cml
+ 
+ Proline.cml
+ 
+ Tryptophan.cml
+ 
+ Tyrosine.cml
+ ```
