@@ -4,6 +4,8 @@
 > To build and optimize molecular structures using Avogadro software. 
 > 
 > To find the various bond angles, bond lengths between different bonds i.e, single, double and triple of same or different elements.
+
+## Amino Acids List
 ```
  Arginine.cml
  
