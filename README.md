@@ -12,6 +12,12 @@ Building and optimization of molecular structures using Avogadro software.
 ## Introduction
 To build and optimize molecular structures using Avogadro software. 
 
+### Course information
+- Course Name: Engineering Chemistry
+- Course Code: 15CY1001
+- Course Credits: 4
+- Academic Year: 2016
+
 ### Aim & Objective
 To find the various bond angles, bond lengths between different bonds i.e, single, double and triple of same or different elements.
 
