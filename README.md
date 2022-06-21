@@ -2,12 +2,16 @@
 
 Building and optimization of molecular structures using Avogadro software.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Building And Optimization of Molecular Structures using Avogadro Software](#building-and-optimization-of-molecular-structures-using-avogadro-software)
+  - [Introduction](#introduction)
+    - [Course information](#course-information)
+    - [Aim & Objective](#aim--objective)
+    - [Amino Acids List](#amino-acids-list)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 To build and optimize molecular structures using Avogadro software. 
