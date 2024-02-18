@@ -62,8 +62,8 @@ To find the various bond angles, bond lengths between different bonds i.e, singl
 ### Get repository
 
 ```git
-git https://github.com/msaf9/AvogadroSoftwareSimulations.git
-cd AvogadroSoftwareSimulations
+git https://github.com/msaf9/avogadro-software-simulations.git
+cd avogadro-software-simulations
 ```
 
 ## License
