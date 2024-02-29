@@ -2,6 +2,8 @@
 
 Building and optimization of molecular structures using Avogadro software.
 
+<h2>Table of content</h2>
+
 - [Introduction](#introduction)
   - [Course information](#course-information)
   - [Aim \& Objective](#aim--objective)
